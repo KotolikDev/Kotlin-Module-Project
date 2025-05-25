@@ -36,5 +36,4 @@ build/
 local.properties
 
 # Gradle cache
-.gradle/
 gradle-app.setting
