@@ -27,3 +27,13 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Android Studio files
+/.idea/
+*.iml
+.gradle/
+build/
+local.properties
+
+# Gradle cache
+gradle-app.setting
